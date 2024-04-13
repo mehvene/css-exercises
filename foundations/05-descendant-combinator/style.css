@@ -1,0 +1,11 @@
+div p{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+}
+div + p{
+    background-color: gray;
+    color: blue;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
